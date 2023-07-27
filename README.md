@@ -24,4 +24,104 @@ Here are some ideas to get you started:
 <div align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/stats?cursusId=21&coalitionId=283" alt="lmasetti's 42 stats" /></a>
 
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <table style="border: none; border-collapse: collapse;">
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/3148282" alt="lmasetti's 42 CPP Module 00 Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        CPP Module 00
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/2983142" alt="lmasetti's 42 minishell Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        minishell
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/2983140" alt="lmasetti's 42 Philosophers Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        Philosophers
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/3001005" alt="lmasetti's 42 Exam Rank 03 Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        Exam Rank 03
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/2894131" alt="lmasetti's 42 push_swap Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        push_swap
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/2894223" alt="lmasetti's 42 pipex Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        pipex
+      </td>
+    </tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/2894219" alt="lmasetti's 42 so_long Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        so_long
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/2928661" alt="lmasetti's 42 Exam Rank 02 Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        Exam Rank 02
+      </td>
+    </tr>    
+    <tr>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/2843606" alt="lmasetti's 42 ft_printf Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        ft_printf
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/2843607" alt="lmasetti's 42 get_next_line Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        Get Next Line
+      </td>
+    </tr>    
+    <tr>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/2843608" alt="lmasetti's 42 Born2beroot Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        Born2beroot
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/project/2817523" alt="lmasetti's 42 Libft Score" />
+      </td>
+      <td style="font-size: 18px; font-weight: bold;">
+        Libft
+      </td>
+    </tr>
+  </table>
 </div>
