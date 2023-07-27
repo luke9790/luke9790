@@ -1,4 +1,5 @@
-### Hi there 👋
+
+                                                  
 
 <!--
 **luke9790/luke9790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/stats?cursusId=21&coalitionId=283" alt="lmasetti's 42 stats" /></a>
+
+</div>
