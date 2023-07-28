@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clkl05qz4000608kuyb5x6j3r/stats?cursusId=21&coalitionId=283" alt="lmasetti's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/lmasetti?1337Badge=off&UM6P=off" alt="lmasetti's 42 stats" /></a>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <table style="border: none; border-collapse: collapse;">
